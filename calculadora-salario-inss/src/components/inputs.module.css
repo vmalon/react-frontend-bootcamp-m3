@@ -1,0 +1,17 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+  justify-content: flex-start;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.input {
+  min-width: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
